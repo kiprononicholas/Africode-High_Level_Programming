@@ -8,9 +8,13 @@
 global_var ="i'm global"
 
 def show_global():
-    # global global_var
+    global global_var
     global_var = "i'm overwriting you"
     print(global_var,"inside a function")
 
 show_global()
 print(global_var)
+
+
+
+
