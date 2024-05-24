@@ -99,4 +99,28 @@
 
 
 
-name = input("enter your name: ")
+# name = input("enter your name: ")
+
+# is_present = "bett"
+
+# if is_present == "Rop":
+#     print("rop is present")
+# elif is_present == "nico":
+#     print("nico is present")
+# elif is_present == "dolly":
+#     print("dolly is present")
+# elif is_present == "ben":
+#     print("ben is present")
+# else:
+#     print(f"{is_present} is not present")
+
+
+
+age = 16
+height = 160
+if age >18 and height > 170:
+    print("eligible for military service")
+elif age < 18 and height >170:
+    print("not eligible for military service due to age")
+else: 
+    print("other condition appy")
