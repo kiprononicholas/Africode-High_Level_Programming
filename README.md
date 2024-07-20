@@ -1,0 +1,1 @@
+Africode-High_Level_Programming is a comprehensive project aimed at providing high-level programming resources and tools. The goal of this project is to simplify the learning process for aspiring programmers and offer a robust set of functionalities to build, manage, and deploy high-level programming solutions
